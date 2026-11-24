@@ -1,0 +1,3 @@
+# 공식 UDP Specification 원본은 재배포 권한이 확인되지 않아 Git에 포함하지 않는다.
+# 배치 방법은 docs/spec/README.md 참조.
+docs/spec/*.pdf
